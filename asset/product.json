@@ -1,0 +1,35 @@
+{
+    "product" : "drink",
+    "object" : [
+        {
+            "id" : "001",
+            "name" : "Kopi Susu",
+            "price" : 18000
+        },
+        {
+            "id" : "002",
+            "name" : "Single Origin",
+            "price" : 20000
+        },
+        {
+            "id" : "003",
+            "name" : "Vietnam Coffee Hot",
+            "price" : 15000
+        },
+        {
+            "id" : "004",
+            "name" : "Vietnam Coffee Ice",
+            "price" : 18000
+        },
+        {
+            "id" : "005",
+            "name" : "Red Velvet Coffee",
+            "price" : 22000
+        },
+        {
+            "id" : "006",
+            "name" : "Avocado Coffee",
+            "price" : 22000
+        }
+    ]
+}
